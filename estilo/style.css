@@ -1,0 +1,16 @@
+* {
+  font-size: 18px;
+  font-family: "Arial Narrow Bold", sans-serif;
+}
+body {
+  width: 100%;
+  background-color: rgb(167, 231, 210);
+}
+main {
+  background: white;
+  width: 600px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.521);
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
